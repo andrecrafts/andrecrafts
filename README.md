@@ -1,4 +1,4 @@
-<h4 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hi, I'm André, AKA <a href="https://andrecrafts.com/">AndreCrafts</a>.
+<h3 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hi, I'm André, AKA <a href="https://andrecrafts.com/">AndreCrafts.</a></h3>
 
 *(You may also know me from my previous work as WafflesExploits).*
 
