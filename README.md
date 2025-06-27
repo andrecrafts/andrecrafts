@@ -12,8 +12,8 @@
 <h3> I'm available for freelance contracts and consulting opportunities in DevSecOps, Cloud Architecture, and Application Security.</h3>
 
 ## 💡 Collaboration & Community 💡
-<h3> Enjoying my work? Show your support with a ⭐️ or by sharing my repositories! </h3>
-<h3>Have ideas or want to collaborate on a project? My inbox is always open.</h3>
+<h4> Enjoying my work? Show your support with a ⭐️ or by sharing my repositories! </h4>
+<h4>Have ideas or want to collaborate on a project? My inbox is always open.</h4>
 
 
 
