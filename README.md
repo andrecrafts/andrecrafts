@@ -9,7 +9,7 @@
 <a target="_blank" href="https://app.hackthebox.com/users/1226970"><img src="https://img.shields.io/badge/-HackTheBox-76B004?style=for-the-badge&logo=HackTheBox&logoColor=white" alt="HackTheBox Badge"></a>
 <a target="_blank" href="mailto:andrecrafts.work@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Mail Badge"></a>
 
-<h3>I'm available for freelance contracts and consulting opportunities in DevSecOps, Cloud Architecture, and Application Security.</h3>
+<h3>I'm available for contracts and consulting opportunities in DevSecOps, Cloud Architecture, and Application Security.</h3>
 
 ## 💡 Collaboration & Community 💡
 <h3> Enjoying my work? Show your support with a ⭐️ or by sharing my repositories! </h3>
