@@ -18,4 +18,4 @@
 
 
 ## 📊 My GitHub Stats 📊
-[![trophy](https://github-profile-trophy.vercel.app/?username=andrecrafts&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=andrecrafts&theme=algolia)
